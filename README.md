@@ -33,6 +33,8 @@ related problem. We have applied transfer learning here on Inception model.
 ## Results
 
 We present the results in terms of both the per-class Area under ROC curve  graphs showing model accuracy and loss, as well as confusion matrix formed by treating the most confident class prediction as the final prediction. We obtain a mean AUROC of `0.9738` (2-class configuration).
+Trained Weights of VGG: https://nustedupk0-my.sharepoint.com/:u:/g/personal/unadeem_ee38ceme_student_nust_edu_pk/EVwjHQfzUbBCoh_f4ShIpnIBkZJAdIIGTRcpfRuaEZjQ2w?e=QlaBeh
+Trained Weights of Inception:
 ### Comparative Analysis
  Training & Validation Accuracy of Training Models
 |  Accuracy | VGG | Inception | Resnet |
